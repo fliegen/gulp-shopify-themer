@@ -1,0 +1,5 @@
+.idea/
+.DS_Store
+assets/.@__thumb/
+gulpfile.js
+/node_modules/

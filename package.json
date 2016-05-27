@@ -1,0 +1,40 @@
+{
+  "name": "gulp-shopify-themer",
+  "version": "1.1.0",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-cssimport": "^3.0.2",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-shopify-upload": "git://github.com/amouro/gulp-shopify-upload.git",
+    "gulp-uglify": "^1.5.3",
+    "gulp-watch": "^4.2.4",
+    "jshint": "^2.9.2",
+    "map-stream": "0.0.6",
+    "through2": "^0.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:bikinitpe/gulp-shopify-watcher.git"
+  },
+  "author": "Yowlong Lee <yowlonglee@fliegen.com.tw>",
+  "contributors":[
+    {
+      "name": "Chris Wu",
+      "email": "chris@fliegen.com.tw"
+    },
+    {
+      "name": "Tokimeki",
+      "email": "agrozyme@gmail.com"
+    }
+  ],
+  "license": "ISC"
+}
